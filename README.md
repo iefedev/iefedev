@@ -8,6 +8,7 @@ Everything below is free and open source.
 #### 🛠 Apps
 
 | | |
+| --- | --- |
 | **[No More DPI](https://github.com/iefedev/NoMoreDPI)** | System-wide DPI bypass on Windows, only for the sites you choose. Gets blocked sites like Discord working again without a VPN. |
 | **[Smart Tether](https://github.com/iefedev/smart-tether)** | Use your Android phone's mobile data on your PC over USB or Wi-Fi, without turning on the hotspot. Switches links without dropping connections. |
 | **[Waddle](https://github.com/iefedev/Waddle)** | Android video and audio downloader built on yt-dlp: share a link, pick the quality, done. |
@@ -16,6 +17,7 @@ Everything below is free and open source.
 #### 🎧 Tools
 
 | | |
+| --- | --- |
 | **[music-engine](https://github.com/iefedev/music-engine)** | Lets AI coding agents (Claude Code, Codex) compose game music from real instrument recordings, then verify it by measurement. |
 | **[Sound Chef](https://github.com/iefedev/sound-chef-extension)** | Chrome extension for per-tab audio: volume boost up to 600%, balance, mono. |
 | **[BudsTray](https://github.com/iefedev/BudsTray)** | Tray app for switching between Bluetooth earbuds on Windows. |
