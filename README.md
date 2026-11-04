@@ -1,7 +1,7 @@
 ### Hi, I'm Efe 👋
 
 I make browser games and small, focused apps that fix everyday annoyances on Windows and Android.
-Everything below is free and open source. If one of them saved you some time, a ⭐ helps others find it.
+Everything below is free and open source.
 
 🌐 [iefe.dev](https://iefe.dev) · 𝕏 [@iefedev](https://x.com/iefedev) · 💼 [LinkedIn](https://www.linkedin.com/in/iefedev/)
 
@@ -27,5 +27,3 @@ Everything below is free and open source. If one of them saved you some time, a 
 #### 🎮 Games
 
 [Mall Tycoon](https://poki.com/en/g/mall-tycoon) · [Plane Wars](https://poki.com/en/g/plane-wars) — playable for free on Poki.
-
-<sub>Built with Go, C#, Kotlin, Python and JavaScript.</sub>
